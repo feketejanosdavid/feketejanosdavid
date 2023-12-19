@@ -1,6 +1,6 @@
 <div>
-	<h1>Hi, I'm David</h1>
-	<p>Future software engineer, and now a student at Budapest</p>
+	<h1>Hi, I'm David🙋🏻‍♂️</h1>
+	<p>Future software engineer👨‍💻 , and now a student👨‍🎓 at Budapest</p>
 </div>
 <hr>
 <div>
@@ -18,16 +18,16 @@
 	</ul>
 </div>
 
-<h3>My projects:</h3>
+<h3>My projects💻:</h3>
 <ul>
-	<li>HTML projects:</li>
+	<li>HTML projects🖥️:</li>
 	<li>https://feketejanosdavid.github.io/Money_Project/</li>
 	<li>https://feketejanosdavid.github.io/VhoiX_KFT/</li>
 </ul>
 
-<p>If you want to collaborate with me, or you want to study <b>HTML, CSS</b>📫 There is how to reach me: </p>
-  <li><b>In email:</b> janosdavidfekete@gmail.com</li>
-  <li><b>In my school email:</b> feketejanosdavid@ktch.hu</li>
-  <li><b>In phone:</b> coming soon...</li>
-  <li><b>In my webpage:</b> coming soon...</li>
+<p>If you want to collaborate with me🕺, or you want to study👨‍🏫 <b>HTML, CSS</b>📫 There is how to reach me: </p>
+  <li><b>In email✉️:</b> janosdavidfekete@gmail.com</li>
+  <li><b>In my school email✉️:</b> feketejanosdavid@ktch.hu</li>
+  <li><b>In phone📞:</b> coming soon...</li>
+  <li><b>In my webpage🖥️:</b> coming soon...</li>
 </ul>
