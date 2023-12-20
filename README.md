@@ -1,5 +1,5 @@
 <div>
-	<h1>Hi, I'm David🙋🏻‍♂️</h1>
+	<h1>Hi, my name is János🙋🏻‍♂️</h1>
 	<p>Future software engineer👨‍💻 , and now a student👨‍🎓 at Budapest</p>
 </div>
 <hr>
