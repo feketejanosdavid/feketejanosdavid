@@ -27,6 +27,7 @@
 	<br>
 	<li>Game projects:</li>
 	<li>https://github.com/feketejanosdavid/szojatek</li>
+	<li>https://github.com/feketejanosdavid/football_game</li>
 	<br>
 	<li>School projects:</li>
 	<li>https://github.com/feketejanosdavid/ber_project</li>
