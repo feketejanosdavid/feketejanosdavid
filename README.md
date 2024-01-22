@@ -36,6 +36,4 @@
 <p>If you want to collaborate with me🕺, or you want to study👨‍🏫 <b>HTML, CSS</b>📫 There is how to reach me: </p>
   <li><b>In email✉️:</b> janosdavidfekete@gmail.com</li>
   <li><b>In my school email✉️:</b> feketejanosdavid@ktch.hu</li>
-  <li><b>In phone📞:</b> coming soon...</li>
-  <li><b>In my webpage🖥️:</b> coming soon...</li>
 </ul>
