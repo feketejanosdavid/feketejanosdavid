@@ -23,14 +23,9 @@
 	<li>HTML projects🖥️:</li>
 	<li>https://feketejanosdavid.github.io/Money_Project/</li>
 	<li>https://feketejanosdavid.github.io/VhoiX_KFT/</li>
-	<li>https://github.com/feketejanosdavid/Blog_project</li>
 	<br>
 	<li>Game projects:</li>
 	<li>https://github.com/feketejanosdavid/szojatek</li>
-	<li>https://github.com/feketejanosdavid/football_game</li>
-	<br>
-	<li>School projects:</li>
-	<li>https://github.com/feketejanosdavid/ber_project</li>
 </ul>
 
 <p>If you want to collaborate with me🕺, or you want to study👨‍🏫 <b>HTML, CSS</b>📫 There is how to reach me: </p>
