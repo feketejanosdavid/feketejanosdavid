@@ -5,8 +5,7 @@
 <hr>
 <div>
 	<p>I am learning at BZSH Külkereskedelmi Technikum, at Budapest. In the future I want to be a software engineer.</p>
-	<p>I am ambitious and I want to learn more and more and more everytime, I want to be the best, and also I want to be up to date as well.</p>
-	<p>In the future and now, I want to learn (or I learning now , or I already learnt) those languages:</p>
+	<p>I want to learn (or I learning now , or I already learnt) those languages:</p>
 	<ul>
 		<li>HTML</li>
 		<li>CSS</li>
