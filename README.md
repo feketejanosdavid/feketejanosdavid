@@ -5,15 +5,12 @@
 <hr>
 <div>
 	<p>I am learning at BZSH Külkereskedelmi Technikum, at Budapest. In the future I want to be a software engineer.</p>
-	<p>I want to learn (or I learning now , or I already learnt) those languages:</p>
+	<p>I learning those languages:</p>
 	<ul>
 		<li>HTML</li>
 		<li>CSS</li>
-		<li>JavaScript</li>
 		<li>Python</li>
-		<li>Java</li>
 		<li>C#</li>
-		<LI>C++</LI>
 	</ul>
 </div>
 
