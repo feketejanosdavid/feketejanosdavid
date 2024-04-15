@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/feketejanosdavid/feketejanosdavid/workflows/snake.yml" alt="Snake animation" />
+<img src="https://github.com/feketejanosdavid/feketejanosdavid/blob/main/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
