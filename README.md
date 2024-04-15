@@ -22,13 +22,24 @@
 
 ###
 
-<h3 align="left">My projects:</h3>
+<h3 align="left">My current projects:</h3>
+<p align="left">Web projects:</p>
+<ul>
+  <li>https://kefima.hu</li>
+</ul>
 
+<p align="left">Game projects:</p>
+<ul>
+  <li>https://github.com/feketejanosdavid/szojatek</li>
+  <li>https://github.com/feketejanosdavid/szamkitalalo</li>
+</ul>
+<p>And you can find my school projects at:</p>
+<ul>
+  <li>https://github.com/orgs/feketejanosdavid-Studies/repositories</li>
+</ul>
 ###
 
 <br clear="both">
-
-<img src="https://github.com/feketejanosdavid/feketejanosdavid/blob/main/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
