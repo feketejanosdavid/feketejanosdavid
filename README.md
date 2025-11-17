@@ -1,63 +1,45 @@
-# Szervusz, Fekete János vagyok! 👋
+# Hi, I'm János Fekete! 👋
 
-### 👨‍💻 Webdesigner | Junior Szoftverfejlesztő | Tesztelő
+### 👨‍💻 Web Designer | Junior Software Developer | Tester
 
-Jelenleg az **Óbudai Egyetem Neumann János Informatikai Karán (ÓE NIK)** tanulok mérnökinformatikus szakon. Szenvedélyem a webfejlesztés és a dizájn, célom, hogy felhasználóbarát és esztétikus digitális élményeket hozzak létre.
-
----
-
-## 🛠️ Képességek és technológiák
-
-### Webfejlesztés & Programozás
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
-  </a>
-  <img width="12" />
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
-  </a>
-  <img width="12" />
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" title="WordPress"/>
-  </a>
-  <img width="12" />
-  <a href="https://elementor.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elementor/elementor-original.svg" height="40" alt="Elementor" title="Elementor"/>
-  </a>
-</p>
-
-### Dizájn Eszközök
-<p align="center">
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Adobe Photoshop" title="Adobe Photoshop"/>
-  </a>
-  <img width="12" />
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Adobe Illustrator" title="Adobe Illustrator"/>
-  </a>
-</p>
-
-* Adobe Lightroom
-* Adobe Animate
+I am currently studying **Computer Science Engineering** at the **Óbuda University, Neumann János Faculty of Informatics (ÓE NIK)**. My passion is web development and design, and my goal is to create user-friendly and aesthetic digital experiences.
 
 ---
 
-## 📬 Keress meg!
+## 🛠️ Skills & Technologies
 
-Nyitott vagyok új lehetőségekre és együttműködésekre. Vedd fel velem a kapcsolatot!
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" title="JavaScript"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" title="WordPress"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" title="Elementor"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" title="Adobe Photoshop"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" title="Adobe Illustrator"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Adobe Lightroom" title="Adobe Lightroom"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Adobe%20Animate-FF7101?style=for-the-badge&logo=adobeanimate&logoColor=white" alt="Adobe Animate" title="Adobe Animate"/>
+</p>
+
+---
+
+## 📬 Get in Touch!
+
+I'm open to new opportunities and collaborations. Feel free to reach out!
 
 <p align="center">
   <a href="https://janosfekete.hu" target="_blank">
-    <img src="https://img.shields.io/badge/Weboldalam-janosfekete.hu-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Weboldal"/>
+    <img src="https://img.shields.io/badge/Website-janosfekete.hu-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   &nbsp;
   <a href="mailto:janosdavidfekete@gmail.com">
@@ -65,6 +47,6 @@ Nyitott vagyok új lehetőségekre és együttműködésekre. Vedd fel velem a k
   </a>
   &nbsp;
   <a href="https://calendar.app.google/X1kkdHmGbBKmEn8h8" target="_blank">
-    <img src="https://img.shields.io/badge/Időpontfoglalás-Google%20Meet-brightgreen?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Időpontfoglalás"/>
+    <img src="https://img.shields.io/badge/Book_a_Meeting-Google%20Meet-brightgreen?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a Meeting"/>
   </a>
 </p>
